@@ -41,7 +41,7 @@ while True:
 			break
 
 	except:
- 		print("There You Go!")
+ 		print("Some error occurred! Please try again.")
  		break
 
  	
