@@ -1,4 +1,4 @@
-# Doraemon Manga Scraper in Python 3
+# Doraemon Manga Scraper in Python 3.
 Scrapes Doraemon-RAW manga from https://doraemon.mangawiki.org/
 
 # Dependencies
